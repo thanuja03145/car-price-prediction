@@ -1,0 +1,25 @@
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# VS Code & IDE settings
+.vscode/
+.idea/
+
+# Dataset & Models (Optional - exclude large binary files)
+*.pth
+*.pkl
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
